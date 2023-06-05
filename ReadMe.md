@@ -2,7 +2,7 @@
 ![Profile views](https://gpvc.arturio.dev/DS-73)  
 
 
-- 🔭 I am a 3rd year undergrad student at **Graphic Era university**.
+- 🔭 I am a 4th year undergrad student at **Graphic Era university**.
 - 🌱 I’m currently working on **Voice Modulation** and **Music Recommandation System**.
 - 👯 I’m looking to collaborate on **Machine Learning**.
 - 🤔 I’m an avid **Competitive Programmer** and an **NLP enthusiast**.
