@@ -1,9 +1,9 @@
 # Dhruv Saini
-![Profile views](https://gpvc.arturio.dev/DS-73)  
+![Profile views](https://komarev.com/ghpvc/?username=DS-73&color=orange)
 
 
 - 🔭 I am a 4th year undergrad student at **Graphic Era university**.
-- 🌱 I’m currently working on **Voice Modulation** and **Music Recommandation System**.
+- 🌱 I’m currently working on **Voice Modulation** and **Speech Separation**.
 - 👯 I’m looking to collaborate on **Machine Learning**.
 - 🤔 I’m an avid **Competitive Programmer** and an **NLP enthusiast**.
 -
