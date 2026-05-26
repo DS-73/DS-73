@@ -63,15 +63,22 @@
 </div>
 
 ## ⚡ Stats
+<br />
 <div align="center">
   
   [![Dhruv's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DS-73?cardType=level-alternate&theme=onedark&fontFamily=42dot%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
 
 </div>
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong> Contribution Graph </strong>
-</summary>
+
+## 🤝 Open Source Impact
+<br />
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DS-73&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+
+## ⚡ Contribution Graph
 <br />
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=DS-73&bg_color=282c34&color=abb2bf&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
