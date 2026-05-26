@@ -66,7 +66,7 @@
 <br />
 <div align="center">
   
-  [![Dhruv's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DS-73?cardType=level-alternate&theme=onedark&fontFamily=42dot%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
+  [![Dhruv's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DS-73?cardType=level-alternate&theme=tokyonight&fontFamily=42dot%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
 
 </div>
 
@@ -80,6 +80,7 @@
 
 ## ⚡ Contribution Graph
 <br />
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DS-73&bg_color=282c34&color=abb2bf&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+<div align="center"><div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DS-73&bg_color=1a1b26&color=70789a&line=7accb4&point=ff9e64&area=true&hide_border=true" alt="Dhruv's Activity Graph" />
+</div>
 </div>
