@@ -3,12 +3,13 @@
   <img src="https://komarev.com/ghpvc/?username=DS-73&label=Profile%20viewers:&color=FE7A16&style=for-the-badge" alt="Profile Views" /> 
 </p>
 
-- 🔭 I am a **Senior Software Engineer**.
-- 🌱 I’m currently working on **Voice Modulation** and **Speech Separation**.
-- 👯 I’m looking to collaborate on **Machine Learning**.
+- 🤖 Currently building **Agentic AI Systems & Advanced RAG Pipelines**.
+- 🛡️ Developing an **Automated Enterprise AI Security & Guardrail System**.
+- ⚡ Engineering **Cloud-Native Platform Infrastructure** and automated CI/CD workflows on GCP and AWS.
+- 🌱 Scaling **Enterprise Data Orchestration** with Apache Airflow, PySpark, and BigQuery.
 - 🤔 I’m an avid **Competitive Programmer** and an **NLP enthusiast**.
-- 📫 How to reach me **dhruvsaini73@gmail.com**.
-- 🤖 **AI/ML Expert** with experience in Langchain, OpenAI, and PyTorch.
+- ✉️ How to reach me: **[dhruvsaini73@gmail.com](mailto:dhruvsaini73@gmail.com)**
+
 
 <div align="center">
 
@@ -63,24 +64,17 @@
 </div>
 
 ## ⚡ Stats
-<br />
 <div align="center">
   
   [![Dhruv's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DS-73?cardType=level-alternate&theme=tokyonight&fontFamily=42dot%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
-
 </div>
+
+<br />
 
 ## 🤝 Open Source Impact
-<br />
+
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DS-73&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
+  <img src="https://streak-stats.demolab.com/?user=DS-73&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
-
-## ⚡ Contribution Graph
-<br />
-<div align="center"><div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DS-73&bg_color=1a1b26&color=70789a&line=7accb4&point=ff9e64&area=true&hide_border=true" alt="Dhruv's Activity Graph" />
-</div>
 </div>
